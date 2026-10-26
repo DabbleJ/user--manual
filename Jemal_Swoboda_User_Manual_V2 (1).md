@@ -1,7 +1,7 @@
 # How to Work with Jemal Swoboda
 ## My Working Manual
 
-**V2.1 draft, October 2026**
+**V2.3 draft, October 2026**
 
 ---
 
@@ -63,14 +63,27 @@ The benchmark I hold myself to: at a past job, my boss was comfortable sending m
 
 ## IV. Where I Add Value
 
-**Highest value:**
-- Open brainstorming
-- Turning an idea into a working prototype fast
-- Testing a hypothesis cheaply before a team commits
+**My value is highest in:**
+- Open brainstorming, especially when the team needs to own the answer
+- Turning an idea into a working prototype fast, so people react to something real
+- Testing a hypothesis cheaply before a team commits, and agreeing up front what would change our minds
+- Fixing what's broken across teams, especially problems with no obvious owner
+- Marketplace supply and partner economics: why people join, stay, and pay
+- Simplifying systems so people spend less time hunting and clicking
+- Using AI tools to get from a first draft to something executive-ready faster
 
-**Lowest value:** social posts and marketing promotion. I can do them well, but they're a poor use of my time, and I move quickly through them without effectiveness or joy.
+**My value is lowest in:**
+- Social posts and marketing promotion. I can do them well, but they're a poor use of my time, and I move quickly through them without effectiveness or joy.
+- Pure spreadsheet and numbers work with no decision attached
+- Doing the same manual step every week. I'll automate it or hand it off.
 
-**First thing I'd improve about a team's systems:** the number of clicks, windows, and folder levels it takes to find things. At B-Line, I reduced a Google Drive for new growth markets from one folder with 8 sub-folders and many untagged files to 3 folders with no orphaned files, all indexed and tagged for search.
+**If you want to support me well:**
+- Give me the outcome you want, and ask me for a yes or no when I'm ideating
+- Help me choose what to build next and when to stop. I generate a lot of ideas, so I do best with shared priorities and a definition of "done."
+- Tell me early when something needs a second look, so a small detail doesn't slip
+- Tell me where my work added value for you or for other teams
+
+**First thing I'd improve about a team's systems:** the number of clicks, windows, and folder levels it takes to find things. At B-Line, I turned a sprawling shared drive for new growth markets into a small set of tagged, searchable folders.
 
 ---
 
@@ -91,10 +104,10 @@ I've done the second one myself and have shared AI drafts before fully polishing
 ## VI. Time and Communication
 
 - **Hours:** about 20 a week, flexible to overlap with Michael, starting after 9 AM Pacific.
-- **Response times:** within about an hour on Slack and email during my working hours, and within 12-24 hours on email after hours.
+- **Response times:** I'm usually quick on Slack during my working hours and respond to email within a day. Let's agree on expectations up front.
 - **After hours:** I'll adapt to the team's needs and I'm open to negotiating after-hours work, with expectations agreed up front.
 - **Calls are my favorite channel for honesty.** If I go quiet, which is rare, call me and I'll tell you why. When a call is more noise than needed, I follow with a short written recap.
-- **Deadlines and risks:** if a deadline looks at risk, it usually means I haven't shown my progress clearly. Tell me directly, by phone if possible, or Slack or text. I rarely miss deadlines, but I can postpone work when I'm confident and then miss a detail. I once missed a daily send cap on a large Snapguide email and had to upgrade our plan quickly to finish in time. I'm working on checking constraints before I start.
+- **Deadlines and risks:** if a deadline looks at risk, it usually means I haven't shown my progress clearly. Tell me directly, by phone if possible, or Slack or text. I rarely miss deadlines, but I can postpone work when I'm confident and then miss a detail. I once missed a daily send cap on a large Snapguide email and had to upgrade our plan quickly to finish in time. I'm working on checking constraints before I start **(working on)**.
 
 ---
 
@@ -119,9 +132,9 @@ I've done the second one myself and have shared AI drafts before fully polishing
 ## IX. What Energizes Me and What I Need
 
 **Energizes me:**
-- Building something real for a specific person, like the platform I built for an NGO in Tanzania that digitizes annual school exams done on paper saving countless hours and making health exams for 1900 students actionable and trackable.
-- Team projects that create change, reduce friction
-- Outside work: running, baking, live music, and guitar lessons
+- Building something real for a specific person, like the platform I built for Rift Valley Children's Village in Tanzania, that digitizes annual school wellness exams done on paper
+- Team projects where everyone gets to work in their sweet spot, the overlap of what they’re good at and what they love.
+- Outside work: running, baking, live music, and raising my curious kids in the PNW
 - A week where nothing carries over to the next Monday **(working on)**
 
 **What I need:**
@@ -144,7 +157,7 @@ I've done the second one myself and have shared AI drafts before fully polishing
 
 ## XI. Closing
 
-I do my best work when it's fun, and I'd like us to enjoy building together.
+I do my best work when it's fun, and I'd like us to enjoy building this together.
 
 *This is a living document. Tell me where it's wrong or how I can improve it.*
 
