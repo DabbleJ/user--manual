@@ -153,13 +153,13 @@ I've done the second one myself and have shared AI drafts before fully polishing
 - **Where I'm headed:** I want to run my own company again in three to five years. Until then, I want to learn, be mentored, and build my skills and leadership confidence.
 - **A phrase you'll hear:** "How can we do this more efficiently, or do you have another way to solve it?"
 - **A habit with a cost:** I form friendships. As an early founder and leader at Dabble, I hired fast after a funding round and then waited too long to act when someone wasn't a fit, which hurt the teammates who were performing. I've learned a lot since then, and I now address missed expectations right away.
-- **What would make me leave a working relationship:** not being challenged or used well after I've asked for an adjustment, not being given the respect I've asked for, or being asked to do something that isn't aligned with my values.
+- **What would make me leave a working relationship:** not being challenged or used well after I've asked for an adjustment, not being given the same respect I've been asked for, or being asked to do something that isn't aligned with my values.
 
 ---
 
 ## XI. Closing
 
-I do my best work when it's fun, and I'd like us to enjoy building this together.
+I do my best work when it's fun, and I'd like us to enjoy building this together. I also enjoy running silly long distances while listening to music that I would prefer was in person. I'm very proud of my homemade granola and biscuits and love my morning coffee ritual.
 
 *This is a living document. Tell me where it's wrong or how I can improve it.*
 
