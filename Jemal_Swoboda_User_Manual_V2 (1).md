@@ -91,7 +91,7 @@ I've done the second one myself and have shared AI drafts before fully polishing
 ## VI. Time and Communication
 
 - **Hours:** about 20 a week, flexible to overlap with Michael, starting after 9 AM Pacific.
-- **Response times:** within about an hour on Slack during my working hours, and within a day on email.
+- **Response times:** within about an hour on Slack and email during my working hours, and within 12-24 hours on email after hours.
 - **After hours:** I'll adapt to the team's needs and I'm open to negotiating after-hours work, with expectations agreed up front.
 - **Calls are my favorite channel for honesty.** If I go quiet, which is rare, call me and I'll tell you why. When a call is more noise than needed, I follow with a short written recap.
 - **Deadlines and risks:** if a deadline looks at risk, it usually means I haven't shown my progress clearly. Tell me directly, by phone if possible, or Slack or text. I rarely miss deadlines, but I can postpone work when I'm confident and then miss a detail. I once missed a daily send cap on a large Snapguide email and had to upgrade our plan quickly to finish in time. I'm working on checking constraints before I start.
@@ -144,7 +144,7 @@ I've done the second one myself and have shared AI drafts before fully polishing
 
 ## XI. Closing
 
-I do my best work when it's fun, and I'd like us to enjoy building this together.
+I do my best work when it's fun, and I'd like us to enjoy building this together. Outside of work you'll find me running silly long distances, making homemade granola and biscuits, or finding live music to enjoy with my family. I'll be on stage someday playing guitar or fiddle!
 
 *This is a living document. Tell me where it's wrong or how I can improve it.*
 
