@@ -119,8 +119,8 @@ I've done the second one myself and have shared AI drafts before fully polishing
 ## IX. What Energizes Me and What I Need
 
 **Energizes me:**
-- Building something real for a specific person, like the platform I'm building for an NGO in Tanzania that digitizes annual school exams done on paper
-- Team projects
+- Building something real for a specific person, like the platform I built for an NGO in Tanzania that digitizes annual school exams done on paper saving countless hours and making health exams for 1900 students actionable and trackable.
+- Team projects that create change, reduce friction
 - Outside work: running, baking, live music, and guitar lessons
 - A week where nothing carries over to the next Monday **(working on)**
 
@@ -144,7 +144,7 @@ I've done the second one myself and have shared AI drafts before fully polishing
 
 ## XI. Closing
 
-I do my best work when it's fun, and I'd like us to enjoy building this together. Outside of work you'll find me running silly long distances, making homemade granola and biscuits, or finding live music to enjoy with my family. I'll be on stage someday playing guitar or fiddle!
+I do my best work when it's fun, and I'd like us to enjoy building together.
 
 *This is a living document. Tell me where it's wrong or how I can improve it.*
 
