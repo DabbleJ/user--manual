@@ -163,4 +163,4 @@ I do my best work when it's fun, and I'd like us to enjoy building this together
 
 ## License
 
-Structure adapted from Michael Margolis’s CEO User Manual [CC BY 4.0](LICENSE).
+Structure adapted from [Michael Margolis's CEO User Manual](https://github.com/storied-inc/ceo-user-manual), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
