@@ -1,7 +1,7 @@
 # How to Work with Jemal Swoboda
 ## My Working Manual
 
-**V2.3 draft, October 2026**
+**V2.5, October 2026**
 
 ---
 
@@ -21,7 +21,7 @@ Success is trust and leverage: you can hand me work and know it will be right, o
 - Me confirming whether something is a build or an idea before I run with it
 - A same-day question ("is this intentional or overlooked?") when something looks off
 
-The benchmark I hold myself to: at a past job, my boss was comfortable sending me to meetings in his place because I understood the system and the rules and he didn't have to wonder if I'd go off script. I'd like to begin working toward that trust in the first 30 days.
+The benchmark I hold myself to: at a past job, my boss was comfortable sending me to meetings in his place because I understood the system and the rules and he didn't have to wonder if I'd go off script. I'd like that trust in 30 days.
 
 **Before I call anything client-ready, I ask:**
 - Did we answer the question?
@@ -57,7 +57,7 @@ The benchmark I hold myself to: at a past job, my boss was comfortable sending m
 
 **When we disagree:** I'd rather propose a quick test than argue. I'll bring my reasoning and a way to check it, and I'll change my mind if the test says I'm wrong. If I think you're missing something, I'll say so directly.
 
-**How I lead a conversation:** If you need direction out of ambiguity, I lead with the point. If I want your perspective and ownership, I may wander until we have alignment and then land the point. If I'm circling and you're lost, ask me what the point is.
+**How I lead a conversation:** If you need direction out of ambiguity, I lead with the point. If we're brainstorming, I may explore first, and I'll say so before I start. If I'm circling and you're lost, ask me what the point is.
 
 ---
 
@@ -73,7 +73,7 @@ The benchmark I hold myself to: at a past job, my boss was comfortable sending m
 - Using AI tools to get from a first draft to something executive-ready faster
 
 **My value is lowest in:**
-- Social posts. I can do them well, but they're a poor use of my time, and I move quickly through them without effectiveness or joy.
+- Social posts and marketing promotion. I can do them well, but they're a poor use of my time, and I move quickly through them without effectiveness or joy.
 - Pure spreadsheet and numbers work with no decision attached
 - Doing the same manual step every week. I'll automate it or hand it off.
 
@@ -81,7 +81,6 @@ The benchmark I hold myself to: at a past job, my boss was comfortable sending m
 - Give me the outcome you want, and ask me for a yes or no when I'm ideating
 - Help me choose what to build next and when to stop. I generate a lot of ideas, so I do best with shared priorities and a definition of "done."
 - Tell me early when something needs a second look, so a small detail doesn't slip
-- Tell me where my work added value for you or for other teams
 
 **First thing I'd improve about a team's systems:** the number of clicks, windows, and folder levels it takes to find things. At B-Line, I turned a sprawling shared drive for new growth markets into a small set of tagged, searchable folders.
 
@@ -104,6 +103,8 @@ Each of these points to something in how we work that we can fix, not to a perso
 - **Hours:** 20 hours a week, flexible to overlap with Michael.
 - **Response times:** I'm usually quick on Slack and email during my working hours, and I answer anything left overnight the next day. Let's agree on expectations up front.
 - **After hours:** I'll adapt to the team's needs and I'm open to negotiating after-hours work, with expectations agreed up front.
+- **Weekly update:** a short written update every week covering what moved, what's blocked, what decision I need, and what risk is emerging, plus time by workstream. If a timeline slips, you'll hear it from me before the deadline, not after.
+- **Tools:** I'll work in your stack and use your templates.
 - **Calls are my favorite channel for honesty.** If I go quiet, which is rare, call me and I'll tell you why. When a call is more noise than needed, I follow with a short written recap.
 - **Deadlines and risks:** if a deadline looks at risk, it usually means I haven't shown my progress clearly. Tell me directly, by phone if possible, or Slack or text. I rarely miss deadlines, but I can postpone work when I'm confident and then miss a detail. I once missed a daily send cap on a large Snapguide email and had to upgrade our plan quickly to finish in time. I'm working on checking constraints before I start **(working on)**.
 
@@ -123,7 +124,9 @@ Each of these points to something in how we work that we can fix, not to a perso
 
 **I'm flexible on:** how early I share drafts and how polished they are. I share early internally and I'll adjust to how you work.
 
-**My editing pass:** I run a saved prompt, built from my past mistakes, that checks for commonly overlooked items and the next two or three moves ahead. I never send an AI-supported draft without my own editorial review.
+**My editing pass:** I run a saved prompt, built from my past mistakes, that checks for commonly overlooked items and the next two or three moves ahead. I never send an AI-supported draft without my own editorial review, and I do a final pass on names, numbers, links, and dates **(working on)**.
+
+**What I own:** the outcomes I'm given, including the follow-up. When I get something wrong, I tell you before you find it, fix it, and add the check to my editing pass **(working on)**.
 
 ---
 
@@ -146,10 +149,10 @@ Each of these points to something in how we work that we can fix, not to a perso
 
 - **People assume I'm a lone wolf.** I'm efficient and I run lean teams, but I love working as part of a team. Sometimes the misread is partly my doing.
 - **Two things that are both true:** I'm good at open brainstorming and good at doing the one thing that's needed.
-- **Where I'm headed:** I'd like this role to grow into a full-time partnership. I also want to run my own company again in the future. Until then, I want to learn, be mentored, and build my skills and network. If a full-time path isn't in the cards, tell me early.
+- **Where I'm headed:** I'd like this role to grow into a full-time partnership. I also want to run my own company again in three to five years. For as long as we work together, I'll put full effort into the work in front of me. Until then, I want to learn, be mentored, and build my skills and leadership confidence. If a full-time path isn't in the cards, I'll tell you early.
 - **A phrase you'll hear:** "How can we do this more efficiently?"
-- **A habit with a cost:** I form friendships with coworkers. As an early founder and leader at Dabble, I hired fast after a funding round and then waited too long to act when someone wasn't a fit, which hurt the teammates who were performing. I've learned a lot since then.
-- **What would make me leave a working relationship:** not being challenged or used well after I've asked for an adjustment, not being given the same respect I've been asked to give, or being asked to do something that isn't aligned with my values.
+- **A habit with a cost:** I form friendships. As an early founder and leader at Dabble, I hired fast after a funding round and then waited too long to act when someone wasn't a fit, which hurt the teammates who were performing. I've learned a lot since then.
+- **What would make me leave a working relationship:** not being challenged or used well after I've asked for an adjustment, not being given the respect I've asked for, or being asked to do something that isn't aligned with my values.
 
 ---
 
