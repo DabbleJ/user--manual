@@ -21,7 +21,7 @@ Success is trust and leverage: you can hand me work and know it will be right, o
 - Me confirming whether something is a build or an idea before I run with it
 - A same-day question ("is this intentional or overlooked?") when something looks off
 
-The benchmark I hold myself to: at a past job, my boss was comfortable sending me to meetings in his place because I understood the system and the rules and he didn't have to wonder if I'd go off script. I'd like that trust in 30 days.
+The benchmark I hold myself to: at a past job, my boss was comfortable sending me to meetings in his place because I understood the system and the rules and he didn't have to wonder if I'd go off script. I'd like to begin working toward that trust in the first 30 days.
 
 **Before I call anything client-ready, I ask:**
 - Did we answer the question?
