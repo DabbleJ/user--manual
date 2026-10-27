@@ -36,7 +36,7 @@ The benchmark I hold myself to: at a past job, my boss was comfortable sending m
 - **I align first, then build fast (working on).** I want to confirm the real problem and that the person who owns the work agrees with the direction. Then I turn the idea into a rough working version quickly, with AI tools it can take minutes, and refine it with real feedback. I once shipped a feature at Brit + Co before checking with the person who owned the experience, and it cost us a follow-up meeting a quick message would have avoided.
 - **A test changes my mind faster than an argument.** In Dabble's early expansion I believed we needed confirmed event partners before entering a market. An investor suggested starting with proven events and finding supply after demand appeared. I tested it, I was wrong, and it became how we grew.
 - **I stop ideating when something exists that people can react to,** not when the idea feels finished.
-- **Under time pressure,** I have a tendency to do the following (working on): Does this solve the real problem, and does the person who owns it agree with the direction? A quick “which problem does this solve, and who owns it?” brings me back to aligning first.
+- **Under time pressure,** I have a tendency to skip answering the following (working on): Does this solve the real problem, and does the person who owns it agree with the direction? A quick “which problem does this solve, and who owns it?” brings me back to aligning first.
 
 ---
 
