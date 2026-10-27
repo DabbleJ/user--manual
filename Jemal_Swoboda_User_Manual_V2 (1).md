@@ -36,7 +36,7 @@ The benchmark I hold myself to: at a past job, my boss was comfortable sending m
 - **I align first, then build fast (working on).** I want to confirm the real problem and that the person who owns the work agrees with the direction. Then I turn the idea into a rough working version quickly, with AI tools it can take minutes, and refine it with real feedback. I once shipped a feature at Brit + Co before checking with the person who owned the experience, and it cost us a follow-up meeting a quick message would have avoided.
 - **A test changes my mind faster than an argument.** In Dabble's early expansion I believed we needed confirmed event partners before entering a market. An investor suggested starting with proven events and finding supply after demand appeared. I tested it, I was wrong, and it became how we grew.
 - **I stop ideating when something exists that people can react to,** not when the idea feels finished.
-- **Under time pressure,** I have a tendency to skip answering the following (working on): Does this solve the real problem, and does the person who owns it agree with the direction? A quick “which problem does this solve, and who owns it?” brings me back to aligning first.
+- **Under time pressure, I can skip two checks (working on):** does this solve the real problem, and does the person who owns it agree with the direction? A quick "which problem does this solve, and who owns it?" brings me back to aligning first.
 
 ---
 
@@ -102,7 +102,7 @@ Each of these points to something in how we work that we can fix, not to a perso
 ## VI. Time and Communication
 
 - **Hours:** 20 hours a week, flexible to overlap with Michael.
-- **Response times:** I'm usually quick on Slack and email during my working hours and respond to email within a day after hours. Let's agree on expectations up front.
+- **Response times:** I'm usually quick on Slack and email during my working hours, and I answer anything left overnight the next day. Let's agree on expectations up front.
 - **After hours:** I'll adapt to the team's needs and I'm open to negotiating after-hours work, with expectations agreed up front.
 - **Calls are my favorite channel for honesty.** If I go quiet, which is rare, call me and I'll tell you why. When a call is more noise than needed, I follow with a short written recap.
 - **Deadlines and risks:** if a deadline looks at risk, it usually means I haven't shown my progress clearly. Tell me directly, by phone if possible, or Slack or text. I rarely miss deadlines, but I can postpone work when I'm confident and then miss a detail. I once missed a daily send cap on a large Snapguide email and had to upgrade our plan quickly to finish in time. I'm working on checking constraints before I start **(working on)**.
@@ -111,7 +111,7 @@ Each of these points to something in how we work that we can fix, not to a perso
 
 ## VII. Feedback and Growth
 
-**Receiving.** Direct feedback helps me, and I’d like it early and plainly. I try to approach with curiosity and listen first, ask a question or two so I understand it, and work not to defend. I work to pick a specific change and follow up to confirm it landed. When a former boss told me a role wasn’t a good fit, I took it seriously and made a plan: I worked on developing the skills she felt I  lacked and on how I present myself.
+**Receiving.** Direct feedback helps me, and I'd like it early and plainly. I listen first, ask a question or two so I understand it, and try not to get defensive. Then I pick one specific change and follow up to confirm it landed. When a former boss told me a role wasn't a good fit, I took it seriously and made a plan: I worked on the skills she felt I lacked and on how I present myself.
 
 **Giving.** I raise missed expectations right away **(working on)**. I ask for a quick call, name the issue before anyone reads into it, and ask how I can help and what needs to be rebalanced. If the pattern continues, I ask the person to compare their work against their role and tell me where the gaps are, then agree on a plan and follow up.
 
@@ -130,9 +130,9 @@ Each of these points to something in how we work that we can fix, not to a perso
 ## IX. What Energizes Me and What I Need
 
 **Energizes me:**
-- Building something real that matters, like the platform I built for Rift Valley Children's Village in Tanzania, that digitizes annual school wellness exams previously done on paper improving local staff time and focus making kids healthy
+- Building something real that matters, like the platform I built for Rift Valley Children's Village in Tanzania. It digitizes annual school wellness exams that were done on paper, so local staff save time and can focus on keeping kids healthy.
 - Team projects where everyone gets to work in their sweet spot, the overlap of what they’re good at and what they love
-- Outside work: running, baking, live music, and raising my curious kids in the PNW with my rockstar trauma therapist wife
+- Outside work: running, baking, live music, and raising two curious kids in the PNW
 - A week where nothing carries over to the next Monday **(working on)**
 
 **What I need:**
@@ -146,7 +146,7 @@ Each of these points to something in how we work that we can fix, not to a perso
 
 - **People assume I'm a lone wolf.** I'm efficient and I run lean teams, but I love working as part of a team. Sometimes the misread is partly my doing.
 - **Two things that are both true:** I'm good at open brainstorming and good at doing the one thing that's needed.
-- **Where I'm headed:** I want to scale this role into a full-time partnership. If that isn't in the cards, look to me exploring other roles to support my financial and career goals. Until then, I want to learn, be mentored, and build my skills and leadership confidence.
+- **Where I'm headed:** I'd like this role to grow into a full-time partnership. I also want to run my own company again in three to five years. Until then, I want to learn, be mentored, and build my skills and leadership confidence. If a full-time path isn't in the cards, I'll tell you early.
 - **A phrase you'll hear:** "How can we do this more efficiently?"
 - **A habit with a cost:** I form friendships. As an early founder and leader at Dabble, I hired fast after a funding round and then waited too long to act when someone wasn't a fit, which hurt the teammates who were performing. I've learned a lot since then.
 - **What would make me leave a working relationship:** not being challenged or used well after I've asked for an adjustment, not being given the respect I've asked for, or being asked to do something that isn't aligned with my values.
