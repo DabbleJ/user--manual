@@ -160,3 +160,7 @@ I do my best work when it's fun, and I'd like us to enjoy building this together
 *This is a living document. Tell me where it's wrong or how I can improve it.*
 
 ---
+
+## License
+
+Structure adapted from Michael Margolis’s CEO User Manual [CC BY 4.0](LICENSE).
