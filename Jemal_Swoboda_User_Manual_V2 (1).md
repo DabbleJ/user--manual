@@ -21,7 +21,7 @@ Success is trust and leverage: you can hand me work and know it will be right, o
 - Me confirming whether something is a build or an idea before I run with it
 - A same-day question ("is this intentional or overlooked?") when something looks off
 
-The benchmark I hold myself to: at a past job, my boss was comfortable sending me to meetings in his place because I understood the system and the rules and he didn't have to wonder if I'd go off script. I'd like that trust in 30 days.
+The benchmark I hold myself to: at a past job, my boss was comfortable sending me to meetings in his place because I understood the system and the rules and he didn't have to wonder if I'd go off script. I'd like to begin working toward that trust in 30 days.
 
 **Before I call anything client-ready, I ask:**
 - Did we answer the question?
@@ -73,7 +73,7 @@ The benchmark I hold myself to: at a past job, my boss was comfortable sending m
 - Using AI tools to get from a first draft to something executive-ready faster
 
 **My value is lowest in:**
-- Social posts and marketing promotion. I can do them well, but they're a poor use of my time, and I move quickly through them without effectiveness or joy.
+- Social posts. I can do them well, but they're a poor use of my time, and I move quickly through them without effectiveness or joy.
 - Pure spreadsheet and numbers work with no decision attached
 - Doing the same manual step every week. I'll automate it or hand it off.
 
@@ -106,13 +106,13 @@ Each of these points to something in how we work that we can fix, not to a perso
 - **Weekly update:** a short written update every week covering what moved, what's blocked, what decision I need, and what risk is emerging, plus time by workstream. If a timeline slips, you'll hear it from me before the deadline, not after.
 - **Tools:** I'll work in your stack and use your templates.
 - **Calls are my favorite channel for honesty.** If I go quiet, which is rare, call me and I'll tell you why. When a call is more noise than needed, I follow with a short written recap.
-- **Deadlines and risks:** if a deadline looks at risk, it usually means I haven't shown my progress clearly. Tell me directly, by phone if possible, or Slack or text. I rarely miss deadlines, but I can postpone work when I'm confident and then miss a detail. I once missed a daily send cap on a large Snapguide email and had to upgrade our plan quickly to finish in time. I'm working on checking constraints before I start **(working on)**.
+- **Deadlines and risks:** if a deadline looks at risk, it usually means I haven't shown my progress clearly. Tell me directly, by phone if possible, or Slack or text. I rarely miss deadlines, but I can postpone work when I'm confident and can risk missing a detail. I once missed a daily send cap limit on a large email project and had to upgrade our plan quickly to finish in time. I'm working on checking constraints before I start **(working on)**.
 
 ---
 
 ## VII. Feedback and Growth
 
-**Receiving.** Direct feedback helps me, and I'd like it early and plainly. I listen first, ask a question or two so I understand it, and try not to get defensive. Then I pick one specific change and follow up to confirm it landed. When a former boss told me a role wasn't a good fit, I took it seriously and made a plan: I worked on the skills she felt I lacked and on how I present myself.
+**Receiving.** Direct feedback helps me, and I'd like it early and plainly. I listen first, ask a question or two so I understand it, and turn off my defensive response. Then I pick a change to address I can commit to and follow up to confirm it aligns. When a former boss told me a prospective role wasn't a good fit, I took it seriously and made a plan: I worked on the building the skills she felt I lacked and on how I present my ability to overdeliver.
 
 **Giving.** I raise missed expectations right away **(working on)**. I ask for a quick call, name the issue before anyone reads into it, and ask how I can help and what needs to be rebalanced. If the pattern continues, I ask the person to compare their work against their role and tell me where the gaps are, then agree on a plan and follow up.
 
@@ -149,7 +149,7 @@ Each of these points to something in how we work that we can fix, not to a perso
 
 - **People assume I'm a lone wolf.** I'm efficient and I run lean teams, but I love working as part of a team. Sometimes the misread is partly my doing.
 - **Two things that are both true:** I'm good at open brainstorming and good at doing the one thing that's needed.
-- **Where I'm headed:** I'd like this role to grow into a full-time partnership. I also want to run my own company again in three to five years. For as long as we work together, I'll put full effort into the work in front of me. Until then, I want to learn, be mentored, and build my skills and leadership confidence. If a full-time path isn't in the cards, I'll tell you early.
+- **Where I'm headed:** I'd like this role to grow into a full-time partnership. I also want to run my own company again in three to five years. For as long as we work together, I'll put full effort into the work in front of me. Until then, I want to learn, be mentored, and build my skills. If a full-time path isn't in the cards, tell me early.
 - **A phrase you'll hear:** "How can we do this more efficiently?"
 - **A habit with a cost:** I form friendships. As an early founder and leader at Dabble, I hired fast after a funding round and then waited too long to act when someone wasn't a fit, which hurt the teammates who were performing. I've learned a lot since then.
 - **What would make me leave a working relationship:** not being challenged or used well after I've asked for an adjustment, not being given the respect I've asked for, or being asked to do something that isn't aligned with my values.
