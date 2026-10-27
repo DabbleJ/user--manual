@@ -73,7 +73,7 @@ The benchmark I hold myself to: at a past job, my boss was comfortable sending m
 - Using AI tools to get from a first draft to something executive-ready faster
 
 **My value is lowest in:**
-- Social posts and marketing promotion. I can do them well, but they're a poor use of my time, and I move quickly through them without effectiveness or joy.
+- Social posts. I can do them well, but they're a poor use of my time, and I move quickly through them without effectiveness or joy.
 - Pure spreadsheet and numbers work with no decision attached
 - Doing the same manual step every week. I'll automate it or hand it off.
 
@@ -146,10 +146,10 @@ Each of these points to something in how we work that we can fix, not to a perso
 
 - **People assume I'm a lone wolf.** I'm efficient and I run lean teams, but I love working as part of a team. Sometimes the misread is partly my doing.
 - **Two things that are both true:** I'm good at open brainstorming and good at doing the one thing that's needed.
-- **Where I'm headed:** I'd like this role to grow into a full-time partnership. I also want to run my own company again in three to five years. Until then, I want to learn, be mentored, and build my skills and leadership confidence. If a full-time path isn't in the cards, I'll tell you early.
+- **Where I'm headed:** I'd like this role to grow into a full-time partnership. I also want to run my own company again in the future. Until then, I want to learn, be mentored, and build my skills and network. If a full-time path isn't in the cards, tell me early.
 - **A phrase you'll hear:** "How can we do this more efficiently?"
-- **A habit with a cost:** I form friendships. As an early founder and leader at Dabble, I hired fast after a funding round and then waited too long to act when someone wasn't a fit, which hurt the teammates who were performing. I've learned a lot since then.
-- **What would make me leave a working relationship:** not being challenged or used well after I've asked for an adjustment, not being given the respect I've asked for, or being asked to do something that isn't aligned with my values.
+- **A habit with a cost:** I form friendships with coworkers. As an early founder and leader at Dabble, I hired fast after a funding round and then waited too long to act when someone wasn't a fit, which hurt the teammates who were performing. I've learned a lot since then.
+- **What would make me leave a working relationship:** not being challenged or used well after I've asked for an adjustment, not being given the same respect I've been asked to give, or being asked to do something that isn't aligned with my values.
 
 ---
 
